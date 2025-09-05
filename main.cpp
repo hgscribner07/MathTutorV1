@@ -12,13 +12,18 @@
 #include <iostream>
 using namespace std;
 int main() {
+    cout << " _, _  _, _, _  _,   _, _  _, ___ _,_   ___ _,_ ___  _, __," << endl;
+    cout << "(_  | / _ |\\/| /_\\   |\\/| /_\\  |  |_|    |  | |  |  / \\ |_) " << endl;
+    cout << ", ) | \\ / |  | | |   |  | | |  |  | |    |  | |  |  \\ / | \\ " << endl;
+    cout << " ~  ~  ~  ~  ~ ~ ~   ~  ~ ~ ~  ~  ~ ~    ~  `~'  ~   ~  ~ ~" << endl;
 
-    auto lang = "C++";
-    cout << "Hello and welcome to " << lang << "!\n";
 
-    for (int i = 1; i <= 5; i++) {
-        cout << "i = " << i << endl;
-    }
+
+
+
+
+
+
 
     return 0;
 }
