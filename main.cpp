@@ -25,7 +25,7 @@ int main() {
 
     cout << "Welcome to Math Tutor"
     << endl;;
-    cout<< "Why was the equal sign so humble? Because it realized it wasnt < or > anyone else." << endl;;
+    cout<< " A Math jock: Why was the equal sign so humble? Because it realized it wasnt < or > anyone else." << endl;;
 
 
 
