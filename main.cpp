@@ -22,14 +22,22 @@ int main() {
 ||_____/|_____\_____|_|  |_/_/    \_\ |_|  |_/_/    \_\_|  |_|  |_|    |_|   \____/   |_|  \____/|_|  \_\|
 '--------------------------------------------------------------------------------------------------------')" << endl;
 
+string userName = "unknown";
+int leftNum = 3;
+int rightNum = 5;
+int userAnswer = 0;
 
 
-    cout << "Welcome to Math Tutor"
-    << endl;;
+
+
+
     cout<< " A Math jock: Why was the equal sign so humble? Because it realized it wasnt < or > anyone else." << endl;;
 
 
-
+    cout << "What's your name:"<< endl;
+    cin >> userName;
+    cout << userName; << "Welcome to Math Tutor"
+    << endl;;
 
 
 
