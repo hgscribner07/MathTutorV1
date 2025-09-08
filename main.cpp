@@ -30,14 +30,15 @@ int userAnswer = 0;
 
 
 
+    cout << "Math Tutor V1" << endl;
+    cout << "SIGMA Maths Jokes" << endl;
+    cout << " A Math jock: Why was the equal sign so humble? Because it realized it wasnt < or > anyone else." << endl;
 
-    cout<< " A Math jock: Why was the equal sign so humble? Because it realized it wasnt < or > anyone else." << endl;;
 
 
     cout << "What's your name:"<< endl;
     cin >> userName;
-    cout << userName; << "Welcome to Math Tutor"
-    << endl;;
+    cout << userName; << "Welcome to Math Tutor" << endl;
 
 
 
