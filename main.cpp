@@ -6,7 +6,7 @@
 * Description: An easy math tutor. designed to help young children with their math abilites. It displays the programs
 *  intro, asks for the users name, shows simple questions, and then displays an end-of-program message.
 ***********************************************************************************************************************/
-// this is the most updated !
+
 
 
 #include <iostream>
@@ -32,13 +32,21 @@ int userAnswer = 0;
 
     cout << "Math Tutor V1" << endl;
     cout << "SIGMA Maths Jokes" << endl;
-    cout << " A Math jock: Why was the equal sign so humble? Because it realized it wasnt < or > anyone else." << endl;
+    cout << "A Math jock: Why was the equal sign so humble? Because it realized it wasnt < or > anyone else." << endl;
+    cout << endl;
+    cout << "Why doesn't anybody talk to circles? Because there is no point." <<endl;
+    cout << "------------------------------------------------------------------------------------------------" << endl;
 
-
-
-    cout << "What's your name:"<< endl;
+    cout << endl;
+    cout << "What's your name: "<< endl;
     cin >> userName;
-    cout << userName; << "Welcome to Math Tutor" << endl;
+    cout << userName << ", welcome to Sigma Math Tutor!" << endl;
+    cout << "------------------------------------------------------------------------------------------------" << endl;
+
+    cout << endl;
+    cout << userName << ", what is " << leftNum << "+" << rightNum << "=" << endl;
+    cin >> userAnswer;
+    cout << "------------------------------------------------------------------------------------------------" <<endl;
 
 
 
