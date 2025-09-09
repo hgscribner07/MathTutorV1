@@ -1,4 +1,3 @@
-
 /***********************************************************************************************************************
 * Title......: Math Tutor V1
 * Programmers: Hannah Scribner, Muhammad Bilal, Isiaha Black-Marhslek
@@ -7,11 +6,14 @@
 * Description: An easy math tutor. designed to help young children with their math abilites. It displays the programs
 *  intro, asks for the users name, shows simple questions, and then displays an end-of-program message.
 ***********************************************************************************************************************/
+
+
+
 #include <iostream>
 using namespace std;
 
 int main() {
-cout << R"( .--------------------------------------------------------------------------------------------------------.
+    cout << R"( .--------------------------------------------------------------------------------------------------------.
 |  _____ _____ _____ __  __            __  __       _______ _    _   _______ _    _ _______ ____  _____  |
 | / ____|_   _/ ____|  \/  |   /\     |  \/  |   /\|__   __| |  | | |__   __| |  | |__   __/ __ \|  __ \ |
 || (___   | || |  __| \  / |  /  \    | \  / |  /  \  | |  | |__| |    | |  | |  | |  | | | |  | | |__) ||
@@ -28,27 +30,32 @@ int userAnswer = 0;
 
 
 
-cout << "Math Tutor V1" << endl;
-cout << "SIGMA Maths Jokes" << endl;
-cout << "A Math jock: Why was the equal sign so humble? Because it realized it wasnt < or > anyone else." << endl;
-cout << endl;
-cout << "Why doesn't anybody talk to circles? Because there is no point." <<endl;
-cout << "------------------------------------------------------------------------------------------------" << endl;
+    cout << "Math Tutor V1" << endl;
+    cout << "SIGMA Maths Jokes" << endl;
+    cout << "A Math jock: Why was the equal sign so humble? Because it realized it wasnt < or > anyone else." << endl;
+    cout << endl;
+    cout << "Why doesn't anybody talk to circles? Because there is no point." <<endl;
+    cout << "------------------------------------------------------------------------------------------------" << endl;
 
-cout << endl;
-cout << "What's your name: "<< endl;
-cin >> userName;
-cout << userName << ", welcome to Sigma Math Tutor!" << endl;
-cout << "------------------------------------------------------------------------------------------------" << endl;
+    cout << endl;
+    cout << "What's your name: "<< endl;
+    cin >> userName;
+    cout << userName << ", welcome to Sigma Math Tutor!" << endl;
+    cout << "------------------------------------------------------------------------------------------------" << endl;
 
-cout << endl;
-cout << userName << ", what is " << leftNum << "+" << rightNum << "=" << endl;
-cin >> userAnswer;
-cout << "------------------------------------------------------------------------------------------------" <<endl;
+    cout << endl;
+    cout << userName << ", what is " << leftNum << "+" << rightNum << "=" << endl;
+    cin >> userAnswer;
+    cout << "------------------------------------------------------------------------------------------------" <<endl;
+
 
 cout << "Sorry this is all the project does right now." << endl;
-cout << "Come back later..." << endl;
-cout << "Good Bye" << endl;
+    cout << "Come back late..." << endl;
+    cout << "Good Bye!" << endl;
 
-return 0;
+
+
+
+
+    return 0;
 }
