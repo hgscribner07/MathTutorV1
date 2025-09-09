@@ -53,9 +53,5 @@ cout << "Sorry this is all the project does right now." << endl;
     cout << "Come back late..." << endl;
     cout << "Good Bye!" << endl;
 
-
-
-
-
     return 0;
 }
