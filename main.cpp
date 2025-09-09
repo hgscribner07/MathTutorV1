@@ -48,13 +48,7 @@ cout << "-----------------------------------------------------------------------
 
 cout << "Sorry this is all the project does right now." << endl;
 cout << "Come back later..." << endl;
-cout << "Good Bye" << endl;\
-
-
-
-
-
-
+cout << "Good Bye" << endl;
 
 return 0;
 }
