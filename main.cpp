@@ -7,8 +7,6 @@
 *  intro, asks for the users name, shows simple questions, and then displays an end-of-program message.
 ***********************************************************************************************************************/
 
-
-
 #include <iostream>
 using namespace std;
 
@@ -22,13 +20,10 @@ int main() {
 ||_____/|_____\_____|_|  |_/_/    \_\ |_|  |_/_/    \_\_|  |_|  |_|    |_|   \____/   |_|  \____/|_|  \_\|
 '--------------------------------------------------------------------------------------------------------')" << endl;
 
-string userName = "unknown";
-int leftNum = 3;
-int rightNum = 5;
-int userAnswer = 0;
-
-
-
+    string userName = "unknown";
+    int leftNum = 3;
+    int rightNum = 5;
+    int userAnswer = 0;
 
     cout << "Math Tutor V1" << endl;
     cout << "SIGMA Maths Jokes" << endl;
@@ -48,8 +43,7 @@ int userAnswer = 0;
     cin >> userAnswer;
     cout << "------------------------------------------------------------------------------------------------" <<endl;
 
-
-cout << "Sorry this is all the project does right now." << endl;
+    cout << "Sorry this is all the project does right now." << endl;
     cout << "Come back late..." << endl;
     cout << "Good Bye!" << endl;
 
