@@ -11,8 +11,10 @@ https://youtu.be/eVGEea7adDM?si=cz1Fbqxr9VgioIEh
 - [Maintainers](#maintainers)`
 
 ## Summary
-Write a short summary of what this program does.   
-Should be at least a paragraph.
+This program made our very own "Sigma Math Tutor", where a simple math question is given
+to a younger child to solve. First, our program tells some sigma math jokes. After our sigma math jokes, our tutor 
+program asks for the user's name. Now that the program knows the user's name, it will then ask them a question 
+using the name they provided. After the user answers the math problem, the program ends.
 
 ## Console Output Testing Example
 ```
@@ -48,7 +50,8 @@ Good Bye!
 ```
 
 ## Maintainers
-[@mbilalcyber](https://github.com/mbilalcyber) Muhammad Bilal  
+[@mbilalcyber](https://github.com/mbilalcyber) Muhammad Bilal
+[@hgscribner07](https://github.com/hgscribner07) Hannah Scribner
 
 
 [Back to Top](#math-tutor-v1)
