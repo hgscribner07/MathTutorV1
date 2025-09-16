@@ -52,6 +52,6 @@ Good Bye!
 ## Maintainers
 [@mbilalcyber](https://github.com/mbilalcyber) Muhammad Bilal
 [@hgscribner07](https://github.com/hgscribner07) Hannah Scribner
-
+[@Isiaha-wsc](https://github.com/Isiaha-wsc) Isiaha Black
 
 [Back to Top](#math-tutor-v1)
